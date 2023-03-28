@@ -4,7 +4,6 @@
 > * C#.NET<br>
 > * C<br>
 >  * VB.NET<br>
->  * C# <br>
 >  * JS <br>
 >  * HTML <br>
 >  * CSS <br>
